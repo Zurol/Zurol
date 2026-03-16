@@ -10,7 +10,7 @@ I'm a developer focused on web experiences, 3D interactive projects and Graphic 
       <h3>Project 1: [3D Vehicle Viewer]</h3>
       <img src="[GIF_URL_1]" width="100%" alt="3D Vehicle Viewer">
       <br/><br/>
-      <a href="[https://zurol.github.io/vehicle-viewer/]">🔗 View Live Demo</a>
+      <a href="https://zurol.github.io/vehicle-viewer/">🔗 View Live Demo</a>
     </td>
     <td width="50%" align="center">
       <h3>Project 2: [Project Name]</h3>
