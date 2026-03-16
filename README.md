@@ -1,4 +1,4 @@
-# Hi there! I'm Miguel 👋
+# Hi there! I'm Miguel Segura👋
 
 I'm a developer focused on web experiences, 3D interactive projects and Graphic content. Check out some of my work below:
 
